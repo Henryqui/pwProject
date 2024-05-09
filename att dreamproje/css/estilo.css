@@ -1,0 +1,28 @@
+#home {
+    background: #109fff;
+    color: white;
+    width: 100%;
+}
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+#domal{
+    width: 370px;
+    margin-left: 150px;
+    margin-top: 70px;
+}
+
+#home {
+    height: 600px;
+}
+
+#recruta{
+    margin-left: 130px;
+}
+
+#stitchparalelo{
+    margin-left: 130px;
+}

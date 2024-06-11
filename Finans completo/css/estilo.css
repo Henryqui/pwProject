@@ -16,3 +16,12 @@
 .euem{
     margin-top: 10px;
 }
+
+footer p a {
+    margin: 5px 15px;
+    
+}
+
+a{
+    text-decoration: none;
+}
